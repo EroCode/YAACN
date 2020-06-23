@@ -1,0 +1,20 @@
+{
+    // "eslint.alwaysShowStatus": true
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": "off",
+    "eslint.validate": [
+      "javascript",
+      {
+        "language": "html",
+        "autoFix": true
+      },
+      {
+        "language": "vue",
+        "autoFix": true
+      },
+      "javascriptreact",
+      "html",
+      "vue"
+    ],
+    "eslint.options": { "plugins": ["html"] },
+}
