@@ -1,5 +1,10 @@
 {
     // "eslint.alwaysShowStatus": true
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "prettier.bracketSpacing": false,
+    "prettier.useTabs": false,
+    "prettier.tabWidth": 2,
     "eslint.alwaysShowStatus": true,
     "eslint.autoFixOnSave": "off",
     "eslint.validate": [
