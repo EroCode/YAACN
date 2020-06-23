@@ -19,6 +19,7 @@ A project makes knowledge management great again!（one day hah
 + Auto Close Tag -html 标签自动补完插件
 + Auto Rename Tag -html 标签改名自动同步插件
 + Debugger for Chrome -vscode chrome 调试工具
++ Rainbow Fart -写代码时自动拍你马屁的插件
 
 # 步骤
 + yarn global add create-react-app
