@@ -25,3 +25,6 @@ A project makes knowledge management great again!（one day hah
 + yarn global add create-react-app
 + cd FirstTestReact
 + create-react-app reactjs-example
++ yarn global add express
++ yarn global add express-generator
+
