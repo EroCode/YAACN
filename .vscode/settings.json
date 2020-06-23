@@ -21,5 +21,12 @@
       "html",
       "vue"
     ],
-    "eslint.options": { "plugins": ["html"] },
+    "eslint.options": {
+      "plugins": [
+        "html"
+      ]
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "off"
+    },
 }
