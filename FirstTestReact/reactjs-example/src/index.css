@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card-ctn {
+  margin: 10px;
+}
+
+.card-ctn-ascard {
+  column-count: 2;
+  column-width: 40%;
+  column-gap: 20px;
+}
+
+.card {
+  padding: 10px;
+  box-shadow: 0 0 5px #000;
+  break-inside: avoid;
+  margin-bottom: 10px;
+}
