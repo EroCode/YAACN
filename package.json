@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "A project makes knowledge management great again!（one day hah",
+  "main": "reactjs_code_snippets_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EroCode/YAACN.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EroCode/YAACN/issues"
+  },
+  "homepage": "https://github.com/EroCode/YAACN#readme",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
